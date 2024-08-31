@@ -13,7 +13,6 @@ This repository contains the implementation of a Genetic Algorithm designed to o
 ## Installation
 
 1. **Clone the repository**:  
-   git clone https://github.com/yourusername/genetic-algorithm-ids.git
 
 2. **Install the required Python packages**:  
    pip install numpy pygad
@@ -23,13 +22,8 @@ This repository contains the implementation of a Genetic Algorithm designed to o
 1. **Configure Parameters**: Modify the parameters such as the number of IDS, rules, attack steps, and paths in the script as per your requirement.
 
 2. **Run the Algorithm**: Execute the script to start the Genetic Algorithm.  
-   python main.py
 
 3. **View Results**: The best solution and its fitness value will be printed in the console.
-
-## Example
-
-An example of how to set up and run the Genetic Algorithm is provided in the `example.py` file.
 
 ## Customization
 
