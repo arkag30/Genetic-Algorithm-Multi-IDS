@@ -12,7 +12,7 @@ This repository contains the implementation of a Genetic Algorithm designed to o
 
 ## Installation
 
-1. **Clone the repository**:  
+1. **Clone the repository**
 
 2. **Install the required Python packages**:  
    pip install numpy pygad
