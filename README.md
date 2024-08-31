@@ -13,7 +13,7 @@ This repository contains the implementation of a Genetic Algorithm designed to o
 ## Installation
 
 1. **Clone the repository**
-
+https://github.com/arkag30/Genetic-Algorithm-Multi-IDS.git
 2. **Install the required Python packages**:  
    pip install numpy pygad
 
